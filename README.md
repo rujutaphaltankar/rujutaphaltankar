@@ -108,145 +108,14 @@ Mindset:
 
 # 🚀 Featured Projects
 
-## 🗺️ Wander
+| Project | What it does | Tech |
+|---|---|---|
+| 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | AI-powered travel planning & itinerary generation | React • TypeScript • Node.js • Prisma |
+| ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based government scheme discovery platform | React • Node.js • MongoDB • Pinecone • Groq |
+| 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Hostel, student, room & payment management | Python • SQL |
+| 🌐 [**Social Network Graph**](https://github.com/rujutaphaltankar/socialnetwork_ds) | Graph-based social network & relationship modelling | Java • Graphs • DSA |
 
-### AI-Powered Travel Planning Platform
 
-A full-stack travel application designed to help users discover destinations, plan trips and generate personalized itineraries.
-
-**Tech Stack**
-
-`React` `TypeScript` `Vite` `Node.js` `Express` `Prisma` `SQLite` `Tailwind CSS`
-
-**Key Features**
-
-* 🤖 AI-powered itinerary generation
-* 🗺️ Destination & attraction discovery
-* 🍴 Restaurant discovery
-* 💰 Trip budget tracking
-* ⭐ Save favorite places
-* 🔐 JWT authentication
-* 🧪 Backend testing
-* 🐳 Docker support
-* ⚙️ GitHub Actions CI
-
-<a href="https://github.com/rujutaphaltankar/Wander">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## ♿ Samarth-AI
-
-### AI-Powered Government Scheme Discovery
-
-An AI-powered platform designed to help persons with disabilities discover government schemes relevant to their needs.
-
-The system combines user profiles, document embeddings, semantic search and LLMs to create a **Retrieval-Augmented Generation (RAG)** workflow.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB` `Python` `Pinecone` `Gemini` `Groq`
-
-**Key Features**
-
-* 🧠 Retrieval-Augmented Generation
-* 🔎 Semantic search
-* 📄 Government document embeddings
-* 🗃️ Personalized user profiles
-* 🤖 LLM-powered responses
-* 🔗 Vector database integration
-* ⚡ Full-stack AI architecture
-
-<a href="https://github.com/rujutaphaltankar/Samarth-AI">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🏨 Hostel Management System
-
-### Database Management Application
-
-A database-driven application designed to manage hostel operations including students, rooms, beds, payments and expenses.
-
-**Tech Stack**
-
-`Python` `SQL` `HTML` `CSS`
-
-**Key Features**
-
-* 👨‍🎓 Student management
-* 🏠 Hostel & room management
-* 🛏️ Bed allocation
-* 💳 Rent payment management
-* 💰 Expense tracking
-* 🗄️ Relational database design
-* 📊 Account management
-
-<a href="https://github.com/rujutaphaltankar/hostel_management">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🌐 Social Network Graph
-
-### Graph-Based Social Network Application
-
-A Java-based application that models social relationships using **graphs and fundamental data structures**.
-
-The project explores how users and their connections can be represented, traversed and managed using graph concepts.
-
-**Tech Stack**
-
-`Java` `Data Structures` `Graphs` `OOP`
-
-**Key Concepts**
-
-* 👥 User representation
-* 🔗 Social connections
-* 🕸️ Graph-based relationships
-* 🔍 Graph traversal
-* 📊 Data structure implementation
-* 🧩 Object-oriented design
-
-<a href="https://github.com/rujutaphaltankar/socialnetwork_ds">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-# 🧠 What These Projects Represent
-
-```text
-                    MY PROJECTS
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-       WANDER       SAMARTH-AI      HOSTEL MGMT
-          │              │              │
-          ▼              ▼              ▼
-     Full-Stack         AI            DBMS
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                 SOCIAL NETWORK
-                         │
-                         ▼
-                       GRAPHS
-                         │
-                         ▼
-                CORE CS FUNDAMENTALS
-```
-
-Together, these projects represent my interest in building software across different layers:
-
-**Frontend → Backend → Databases → AI → Algorithms**
-
----
 
 # 🧩 Areas I'm Interested In
 
@@ -280,67 +149,7 @@ Together, these projects represent my interest in building software across diffe
        └── System Design
 ```
 
----
 
-# 🏆 Hackathons & Experiences
-
-### 🧑‍💻 Samarth-AI Hackathon
-
-Worked on an AI-powered platform to help persons with disabilities discover relevant government schemes.
-
-The project involved building an end-to-end architecture using:
-
-```text
-User Profile
-     ↓
-MongoDB
-     ↓
-Scheme Documents
-     ↓
-Embeddings
-     ↓
-Pinecone
-     ↓
-Semantic Retrieval
-     ↓
-Groq LLM
-     ↓
-Personalized Response
-```
-
-This gave me hands-on experience with **AI application architecture, RAG pipelines, vector databases and full-stack development**.
-
----
-
-### ☁️ AWS Cloud Club
-
-Interested in cloud computing and actively exploring AWS through technical learning, hands-on projects and student-led initiatives.
-
----
-
-### 🇯🇵 Content Tokyo 2026
-
-Had the opportunity to attend **Content Tokyo 2026 in Japan**, explore technology and industry perspectives, and attend a lecture on **AI and Human Society**.
-
-The experience helped me think beyond simply building technology and understand how emerging technologies can influence people and society.
-
----
-
-# 💃 Beyond Technology
-
-Technology isn't the only thing I enjoy.
-
-### 🎭 Dance
-
-Dance has been an important part of my college journey, from choreography and performances to participating in inter-collegiate competitions.
-
-### 🌏 Exploring
-
-I enjoy travelling, exploring new places and experiencing different cultures.
-
-My journey to Japan for **Content Tokyo 2026** was one of the experiences that strengthened my curiosity about technology, innovation and global perspectives.
-
----
 
 # 📚 Currently Learning
 
