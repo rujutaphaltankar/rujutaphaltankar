@@ -259,3 +259,5 @@ I believe that every project is an opportunity to learn something new — whethe
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,20,24&section=footer"/>
 </p>
 ```
+
+
