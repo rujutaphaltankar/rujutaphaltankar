@@ -26,11 +26,9 @@
 
 ### 🎓 Computer Engineering Student | 💻 Full-Stack Developer | 🤖 AI Explorer
 
-I am a Computer Engineering student passionate about designing real-world digital products that blend intuitive user experiences, scalable backend systems, and practical AI-driven solutions.
+I build thoughtful digital experiences at the intersection of software engineering, product thinking, and emerging AI. My work focuses on creating practical, user-centered solutions that are clean, scalable, and impactful.
 
-I enjoy building across the full stack — from frontend interfaces and APIs to database architecture, cloud deployment, and intelligent product experiences. My focus is on learning by building and turning ideas into working, impactful solutions.
-
-My work includes AI-powered applications, full-stack web systems, graph-based problem solving, and database-driven tools that solve real user needs.
+From full-stack web applications to AI-powered tools and data-oriented systems, I enjoy turning ideas into real products that solve meaningful problems and improve everyday experiences.
 
 ```yaml
 Name: Rujuta Phaltankar
@@ -39,13 +37,13 @@ Education:
   B.Tech Computer Engineering
   DES Pune University
 
-Core Interests:
+Core Profile:
   - Full-Stack Development
+  - Product Building
   - Artificial Intelligence
   - Generative AI
   - Backend Systems
   - Cloud Computing
-  - Product Building
   - Data Structures & Algorithms
 
 Currently Exploring:
@@ -103,7 +101,7 @@ Mindset:
 
 # 🚀 Featured Projects
 
-Here are some of the projects I’ve built to explore product thinking, system design, and practical AI integration.
+A curated selection of projects focused on product thinking, user value, system design, and practical AI integration.
 
 | Project | What it does | Tech |
 |---|---|---|
