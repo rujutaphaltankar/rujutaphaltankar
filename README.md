@@ -105,7 +105,7 @@ Mindset:
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🧠 **MindMate** | AI-powered personal productivity and mental wellness companion for planning, journaling, and focus support | React • TypeScript • Node.js • AI APIs |
+| 🧠 [**MindMate**](https://github.com/rujutaphaltankar/MindMate) | AI-powered personal productivity and mental wellness companion for planning, journaling, and focus support | React • TypeScript • Node.js • AI APIs |
 | 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | AI-powered travel planning & itinerary generation | React • TypeScript • Node.js • Prisma |
 | ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based government scheme discovery platform | React • Node.js • MongoDB • Pinecone • Groq |
 | 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Hostel, student, room & payment management | Python • SQL |
