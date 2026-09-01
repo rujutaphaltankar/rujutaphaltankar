@@ -26,11 +26,11 @@
 
 ### 🎓 Computer Engineering Student | 💻 Full-Stack Developer | 🤖 AI Explorer
 
-I'm a Computer Engineering student with a strong interest in building practical digital products that combine clean user experiences, scalable backend systems, and real-world problem solving.
+I am a Computer Engineering student passionate about designing real-world digital products that blend intuitive user experiences, scalable backend systems, and practical AI-driven solutions.
 
-I enjoy working across the full stack — from frontend interfaces and APIs to database design, AI integrations, and cloud-based deployment. I like learning by building and turning ideas into working solutions.
+I enjoy building across the full stack — from frontend interfaces and APIs to database architecture, cloud deployment, and intelligent product experiences. My focus is on learning by building and turning ideas into working, impactful solutions.
 
-My projects range from full-stack applications and AI-powered experiences to graph-based systems and database-driven tools.
+My work includes AI-powered applications, full-stack web systems, graph-based problem solving, and database-driven tools that solve real user needs.
 
 ```yaml
 Name: Rujuta Phaltankar
@@ -39,11 +39,11 @@ Education:
   B.Tech Computer Engineering
   DES Pune University
 
-Interests:
+Core Interests:
   - Full-Stack Development
   - Artificial Intelligence
   - Generative AI
-  - Backend Development
+  - Backend Systems
   - Cloud Computing
   - Product Building
   - Data Structures & Algorithms
@@ -58,7 +58,7 @@ Currently Exploring:
   - System Design
 
 Mindset:
-  Learn → Build → Experiment → Debug → Improve
+  Learn → Build → Experiment → Debug → Improve → Ship
 ```
 
 ---
@@ -103,13 +103,22 @@ Mindset:
 
 # 🚀 Featured Projects
 
+Here are some of the projects I’ve built to explore product thinking, system design, and practical AI integration.
+
 | Project | What it does | Tech |
 |---|---|---|
 | 🧠 [**MindMate**](https://github.com/rujutaphaltankar/MindMate) | AI-powered personal productivity and mental wellness companion for planning, journaling, and focus support | React • TypeScript • Node.js • AI APIs |
-| 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | AI-powered travel planning & itinerary generation | React • TypeScript • Node.js • Prisma |
-| ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based government scheme discovery platform | React • Node.js • MongoDB • Pinecone • Groq |
-| 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Hostel, student, room & payment management | Python • SQL |
-| 🌐 [**Social Network Graph**](https://github.com/rujutaphaltankar/socialnetwork_ds) | Graph-based social network & relationship modelling | Java • Graphs • DSA |
+| 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | AI-powered travel planning and itinerary generation for personalized trip experiences | React • TypeScript • Node.js • Prisma |
+| ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based government scheme discovery platform to simplify access to public benefits | React • Node.js • MongoDB • Pinecone • Groq |
+| 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Student, room, and payment management system for hostel operations | Python • SQL |
+| 🌐 [**Social Network Graph**](https://github.com/rujutaphaltankar/socialnetwork_ds) | Graph-based social network model for analysing relationships and connections | Java • Graphs • DSA |
+
+### ✨ Quick Highlights
+
+- Building full-stack products with clean UI and scalable backend logic
+- Exploring AI-powered workflows, LLM apps, and retrieval systems
+- Creating solutions driven by real user problems and practical use cases
+- Combining creativity, system design, and engineering discipline in each project
 
 # 🧩 Areas I'm Interested In
 
