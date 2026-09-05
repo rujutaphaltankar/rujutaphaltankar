@@ -109,8 +109,6 @@ A curated selection of projects spanning AI products, browser tooling, systems p
 | 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | AI-powered travel planning and itinerary generation for personalized trip experiences | React • TypeScript • Node.js • Prisma |
 | 🎙️ [**Meet Live Summarizer**](https://github.com/rujutaphaltankar/meet-live-summarizer) | Chrome extension that generates real-time, bullet-pointed summaries of Google Meet calls | JavaScript • Chrome Extension APIs |
 | ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based government scheme discovery platform to simplify access to public benefits | React • Node.js • MongoDB • Pinecone • Groq |
-| ⚙️ [**Operating Systems Programs**](https://github.com/rujutaphaltankar/OperatingSystems) | Implementations of CPU scheduling algorithms and inter-process communication using a pipe | Java • C++ • Operating Systems |
-| 🖼️ [**Digital Image Processing**](https://github.com/rujutaphaltankar/Digital_Image_Processing) | Python implementations of edge detection, histogram equalization, RGB/HSV conversion, and image resizing | Python • Image Processing |
 | 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Student, room, and payment management system for hostel operations | Python • SQL |
 
 ### ✨ Quick Highlights
