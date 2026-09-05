@@ -107,9 +107,9 @@ A curated selection of projects focused on product thinking, user value, system 
 |---|---|---|
 | 🧠 [**MindMate**](https://github.com/rujutaphaltankar/MindMate) | AI-powered personal productivity and mental wellness companion for planning, journaling, and focus support | React • TypeScript • Node.js • AI APIs |
 | 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | AI-powered travel planning and itinerary generation for personalized trip experiences | React • TypeScript • Node.js • Prisma |
+| 🎙️ [**Meet Live Summarizer**](https://github.com/rujutaphaltankar/meet-live-summarizer) | Chrome extension that generates real-time, bullet-pointed summaries of Google Meet calls | JavaScript • Chrome Extension APIs |
 | ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based government scheme discovery platform to simplify access to public benefits | React • Node.js • MongoDB • Pinecone • Groq |
 | 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Student, room, and payment management system for hostel operations | Python • SQL |
-| 🌐 [**Social Network Graph**](https://github.com/rujutaphaltankar/socialnetwork_ds) | Graph-based social network model for analysing relationships and connections | Java • Graphs • DSA |
 
 ### ✨ Quick Highlights
 
