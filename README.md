@@ -203,6 +203,22 @@ I’m open to:
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rujutaphaltankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rujuta's GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujutaphaltankar&theme=tokyonight&hide_border=true" alt="Rujuta's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rujutaphaltankar&theme=tokyo-night&hide_border=true" alt="Rujuta's GitHub contribution activity graph" />
+</p>
+
+---
+
 # 📫 Let’s Connect
 
 <p align="center">
