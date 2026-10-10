@@ -1,16 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Rujuta%20Phaltankar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Explorer&descAlignY=58" alt="Rujuta Phaltankar banner" />
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Rujuta%20Phaltankar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder&descAlignY=58" alt="Rujuta Phaltankar Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;AI+%26+GenAI+Explorer;Cloud+Computing+Enthusiast;Hackathon+Builder;Product-Minded+Builder" alt="Typing animation showing role titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=Computer+Engineering+Student;Full-Stack+Developer;AI+%26+GenAI+Enthusiast;Backend+Systems+Builder;Product-Driven+Problem+Solver;Cloud+%26+Web+Technologies" alt="Typing animation showing developer roles" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rujutaphaltankar">
+  <a href="https://github.com/rujutaphaltankar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/rujuta-phaltankar/">
+  <a href="https://www.linkedin.com/in/rujuta-phaltankar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rujuta.phaltankar@gmail.com">
@@ -20,125 +20,121 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-0A84FF?style=flat-square" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/AI-LLMs%20%26%20RAG-6C63FF?style=flat-square" alt="AI badge" />
+  <img src="https://img.shields.io/badge/AI-Generative%20AI%20%26%20LLMs-6C63FF?style=flat-square" alt="AI badge" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Systems-00C7B7?style=flat-square" alt="Cloud badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Real%20Projects-FFB000?style=flat-square" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Impactful%20Projects-FFB000?style=flat-square" alt="Status badge" />
 </p>
 
 ---
 
-# 👋 Hi, I’m Rujuta
+# About Me
 
-### 🎓 Computer Engineering Student | 💻 Full-Stack Developer | 🤖 AI Explorer
+I’m Rujuta Phaltankar, a Computer Engineering student with a strong interest in building modern, useful, and scalable digital experiences. My work combines full-stack development, product thinking, and emerging AI technologies to create solutions that are not only technically sound but also practical and user-focused.
 
-I build practical, user-centered digital products that combine modern web development, backend engineering, and AI-driven experiences. I enjoy turning ideas into systems that are useful, scalable, and genuinely valuable to people.
+I enjoy turning ideas into polished products — from web applications and backend systems to AI-powered workflows and intelligent experiences. My goal is to keep learning, building, and shipping meaningful software that creates real impact.
 
-My work sits at the intersection of software engineering, product thinking, and emerging AI — from full-stack applications to intelligent workflows, automation, and thoughtful user experiences.
+### Profile Snapshot
+
+- Computer Engineering Student at DES Pune University
+- Full-Stack Developer with a product mindset
+- Interested in Generative AI, LLMs, automation, and cloud technologies
+- Focused on writing clean, maintainable, real-world software
+- Passionate about problem-solving, experimentation, and continuous learning
 
 ```yaml
 Name: Rujuta Phaltankar
-
-Education:
-  B.Tech Computer Engineering
-  DES Pune University
-
-Core Profile:
+Education: B.Tech in Computer Engineering
+University: DES Pune University
+Core Interests:
   - Full-Stack Development
   - Product Building
   - Artificial Intelligence
   - Generative AI
-  - Backend Systems
+  - Backend Engineering
   - Cloud Computing
-  - Data Structures & Algorithms
-
-Currently Exploring:
-  - Generative AI
+  - Problem Solving
+Current Focus:
   - LLM Applications
   - RAG Systems
   - AWS & Cloud
-  - Backend Architecture
-  - DevOps
   - System Design
-
-Mindset:
-  Learn → Build → Experiment → Debug → Improve → Ship
+  - DevOps
+  - Building User-Centered Products
 ```
 
 ---
 
-# 🚀 What I’m About
+# Core Strengths
 
-I’m a developer who likes to solve real-world problems with clean architecture, intuitive interfaces, and strong product instincts. I enjoy building things that are not only technically sound, but also valuable in everyday use.
+### Software Engineering
+- Full-stack web application development
+- Responsive and performant frontend interfaces
+- Scalable backend architecture and logic
+- API design and integration
+- Building complete, production-minded solutions
 
-### My focus areas
-- Full-stack application development
-- Intelligent and AI-assisted product experiences
-- Clean UI + scalable backend logic
-- Turning research ideas into working prototypes
-- Learning systems, cloud infrastructure, and production-ready engineering practices
+### AI & Innovation
+- Generative AI exploration
+- LLM-powered apps and intelligent workflows
+- RAG-based systems and AI integrations
+- Automation through smart product experiences
 
-### I care about
-- Writing maintainable code
-- Building tools people actually use
-- Learning by shipping projects
-- Improving product usability and technical quality
-- Working at the intersection of engineering and creativity
+### Product Mindset
+- User-centric problem solving
+- Idea-to-prototype development
+- Turning research into practical solutions
+- Improving usability, quality, and impact
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
-### 💻 Languages
-
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,sql&perline=6" alt="Programming languages" />
 </p>
 
-### 🌐 Frontend & Full-Stack
-
+### Frontend & Full-Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,express&perline=7" alt="Frontend and backend tools" />
 </p>
 
-### 🗄️ Databases, Cloud & Dev Tools
-
+### Databases, Cloud & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,prisma,aws,docker,linux,git,github,vscode,figma,postman&perline=10" alt="Databases and development tools" />
 </p>
 
-### 🤖 AI & Product Interests
-
+### Areas of Interest
 <p align="center">
-  <b>Generative AI • LLM APIs • RAG • Embeddings • Vector Search • AI Integration • Smart Automation</b>
+  <b>Generative AI • LLM APIs • RAG • Embeddings • Vector Search • AI Integration • Smart Automation • System Design • Cloud Architecture</b>
 </p>
 
 ---
 
-# 🧩 Featured Projects
+# Featured Projects
 
-| Project | What it does | Tech |
+| Project | Description | Stack |
 |---|---|---|
-| 🧠 [**MindMate**](https://github.com/rujutaphaltankar/MindMate) | AI-powered productivity and wellness companion for planning, journaling, and focus support | React • TypeScript • Node.js • AI APIs |
-| 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | AI-powered travel planning and itinerary generation for personalized trip experiences | React • TypeScript • Node.js • Prisma |
-| 🎙️ [**Meet Live Summarizer**](https://github.com/rujutaphaltankar/meet-live-summarizer) | Chrome extension that generates real-time, bullet-pointed summaries of Google Meet calls | JavaScript • Chrome Extension APIs |
-| ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based government scheme discovery platform designed to simplify access to public benefits | React • Node.js • MongoDB • Pinecone • Groq |
-| 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Student, room, and payment management system for hostel operations | Python • SQL |
+| 🧠 [**MindMate**](https://github.com/rujutaphaltankar/MindMate) | AI-powered productivity and wellness companion designed for planning, journaling, and focus support | React • TypeScript • Node.js • AI APIs |
+| 🗺️ [**Wander**](https://github.com/rujutaphaltankar/Wander) | Personalized travel planning platform that generates itineraries and recommendations | React • TypeScript • Node.js • Prisma |
+| 🎙️ [**Meet Live Summarizer**](https://github.com/rujutaphaltankar/meet-live-summarizer) | Chrome extension to generate live, concise meeting summaries during Google Meet calls | JavaScript • Chrome Extension APIs |
+| ♿ [**Samarth-AI**](https://github.com/rujutaphaltankar/Samarth-AI) | RAG-based platform for discovering government schemes and public benefit information more easily | React • Node.js • MongoDB • Pinecone • Groq |
+| 🏨 [**Hostel Management**](https://github.com/rujutaphaltankar/hostel_management) | Student, room, and payment management application for hostel operations | Python • SQL |
 
-### ✨ Project Highlights
-
-- Building full-stack products with clean UI and thoughtful user experience
-- Exploring AI-powered workflows, LLM applications, and retrieval systems
-- Practicing system-level thinking and core CS fundamentals
-- Creating solutions grounded in real user needs and practical use cases
-- Combining creativity, product thinking, and engineering discipline in each build
+### What I Build
+- Practical tools that solve real-world problems
+- Full-stack applications with thoughtful user experience
+- AI-assisted experiences and automation workflows
+- Clean, maintainable code with a focus on utility and clarity
+- Solutions grounded in product thinking and engineering discipline
 
 ---
 
-# 📚 Currently Learning
+# Current Learning Path
 
 ```text
 ☁️ AWS & Cloud Computing
-🤖 Generative AI
+🤖 Generative AI & LLMs
 🧠 RAG & Vector Databases
 🏗️ System Design
 ⚙️ Backend Architecture
@@ -149,83 +145,62 @@ I’m a developer who likes to solve real-world problems with clean architecture
 
 ---
 
-# 🎯 Current Goals
+# Goals & Ambitions
 
-- 🚀 Become a stronger, more confident full-stack developer
-- 🤖 Build production-ready AI-powered applications
-- ☁️ Deepen my understanding of AWS and cloud-based systems
-- 🏗️ Improve system design and scalable backend thinking
-- 🧠 Strengthen DSA and problem-solving fundamentals
-- 💻 Build more robust and maintainable backend systems
-- 🌱 Contribute to open-source projects and collaborative engineering work
-- 🚀 Turn ideas into real, usable products that solve meaningful problems
+- Build stronger, more confident full-stack engineering skills
+- Create production-ready AI-powered products
+- Deepen expertise in cloud systems and backend architecture
+- Improve problem-solving and system design capabilities
+- Develop impactful projects that solve meaningful user problems
+- Contribute to collaborative and innovative engineering work
+- Continue learning by shipping, iterating, and refining ideas
 
 ---
 
-# 💭 My Approach
+# Approach to Work
 
 ```text
-             IDEA
-              │
-              ▼
-          EXPLORE 🔍
-              │
-              ▼
-           DESIGN 🧠
-              │
-              ▼
-           BUILD 🛠️
-              │
-              ▼
-          DEBUG 🐛
-              │
-              ▼
-         IMPROVE ⚡
-              │
-              ▼
-           SHIP 🚀
+IDEA → RESEARCH → DESIGN → BUILD → TEST → IMPROVE → SHIP
 ```
 
-> Don’t just learn technology. Build something with it.
-
-I believe every project is an opportunity to learn, iterate, and improve — whether it’s a framework, a cloud service, an AI model, or a better way to solve a problem.
+I believe great engineering starts with curiosity, grows through iteration, and becomes valuable only when it solves a real need. Every project is an opportunity to learn, adapt, and improve.
 
 ---
 
-# 🌟 What I’m Looking For
+# Open to
 
-I’m open to:
-- Internship and project collaborations
-- Product-building opportunities
-- AI and full-stack engineering challenges
-- Hackathons and hands-on learning experiences
-- Work that blends engineering, design, and real impact
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rujutaphaltankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rujuta's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujutaphaltankar&theme=tokyonight&hide_border=true" alt="Rujuta's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rujutaphaltankar&theme=tokyo-night&hide_border=true" alt="Rujuta's GitHub contribution activity graph" />
-</p>
+- Internship opportunities
+- Project collaborations
+- Product-building challenges
+- AI and full-stack development work
+- Hackathons and innovation-driven projects
+- Work that blends engineering, design, and impact
 
 ---
 
-# 📫 Let’s Connect
+# GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rujutaphaltankar">
+  <img src="https://github-readme-stats.vercel.app/api?username=rujutaphaltankar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rujuta GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rujutaphaltankar&theme=tokyonight&hide_border=true" alt="Rujuta GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rujutaphaltankar&theme=tokyo-night&hide_border=true" alt="Rujuta GitHub activity graph" />
+</p>
+
+---
+
+# Let’s Connect
+
+<p align="center">
+  <a href="https://github.com/rujutaphaltankar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/rujuta-phaltankar/">
+  <a href="https://www.linkedin.com/in/rujuta-phaltankar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rujuta.phaltankar@gmail.com">
