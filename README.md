@@ -18,12 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-0A84FF?style=flat-square" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/AI-Generative%20AI%20%26%20LLMs-6C63FF?style=flat-square" alt="AI badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Systems-00C7B7?style=flat-square" alt="Cloud badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Impactful%20Projects-FFB000?style=flat-square" alt="Status badge" />
-</p>
 
 ---
 
